@@ -1,0 +1,27 @@
+{
+    "userlist": [
+        {
+            "name": "K.pandeeswaran",
+            "email": "pandeeswarankupp****@***.com",
+            "phone": "99444*****"
+        },
+        {
+            "name": "R.Vijay",
+            "email": "vijayr****@***.com",
+            "phone": "99123*****"
+
+        },
+        {
+            "name": "A.Ajitkumar",
+            "email": "ajithk****@***.com",
+            "phone": "8123*****"
+
+        },
+        {
+            "name": "S.Suriya",
+            "email": "suriyas****@***.com",
+            "phone": "99424*****"
+
+        }
+    ]
+}

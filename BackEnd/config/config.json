@@ -1,0 +1,12 @@
+{
+
+  "host": "localhost or server name",
+  "user": "postgres username",
+  "port": "Postgres Port number interger format",
+  "password": "Postgres database password",
+  "database": "Postgres database name",
+
+  "jwtExpiration": 60,
+  "jwtRefreshExpiration": 120
+
+}
